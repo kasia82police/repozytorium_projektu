@@ -1,1 +1,1 @@
-print ("pierszy wpis")
+print (" mój pierszy wpis")
